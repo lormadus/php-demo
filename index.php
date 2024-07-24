@@ -1,3 +1,3 @@
 <?
-echo "GitHub Source";
+echo "GitHub Source Staging";
 ?>
